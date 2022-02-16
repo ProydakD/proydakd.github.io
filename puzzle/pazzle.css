@@ -1,9 +1,13 @@
 body{
-    background: url("./img/bg-logo5.jpg") cover no-repeat;
+    background: url("./img/bg-logo5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #nik{
     position: fixed;
-    background: url("./img/bg.jpg") cover no-repeat;
+    background: url("./img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
     z-index: 100;
     top: 0;
     left: 0;
